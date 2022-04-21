@@ -8,7 +8,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class CensusAnalyserTest {
-
     ReadOperations readObj = new ReadOperations();
     String fileName = "IndianStateCensusData";
 
